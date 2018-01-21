@@ -17,7 +17,3 @@ class Myobj(object):
 
 print (tmpl.render(v=Myobj()))
 
-
-''' 
-testing pull
-'''
